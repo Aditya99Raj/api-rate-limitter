@@ -1,5 +1,5 @@
 {
-  "name": "node-revision-api-rate-limiter",
+  "name": "api-rate-limitter",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
